@@ -1,0 +1,2 @@
+# PeopleNewsCrawler
+python实现人民网新闻的自动爬取
